@@ -1,3 +1,8 @@
+
+'''
+    Nisam bio siguran kako da ti posaljem ovaj domaci 
+    pa sam poslao samo ovaj fajl gde sam pozivao metode(da ne bi slao jos 2 fajla i tabelu mysql-a). Naravno ako je i to potrebno ti javi.
+'''
 from product import Product
 from Shopping_cart import Shopping_cart
 
